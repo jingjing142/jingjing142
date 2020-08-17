@@ -1,6 +1,6 @@
 ### Hi, I'm Jing 👋
 
-A developer with a background in international affairs. 🌏 I'm from Germany, but studied in the UK, and spent the past few years working on policy and political risk in London and Beijing. 🌆 Most of what I know about code, I learned through self-study, with the help of amazing resources such as The Odin Project and freeCodeCamp. 👩🏻‍💻 
+I'm from Germany, but studied in the UK, and spent the past few years working on policy and political risk in London and Beijing. 🌆 Most of what I know about code, I learned through self-study, with the help of amazing resources such as The Odin Project and freeCodeCamp. 👩🏻‍💻 
 
 🔭 I’m currently working on a full stack application as part of my studies at the [Coyotiv School of Engineering](https://www.coyotiv.com/school-of-software-engineering/). <br>
 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hujingjing/). <br>
