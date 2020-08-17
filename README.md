@@ -1,6 +1,10 @@
 ### Hi, I'm Jing 👋
 
-A career changer with a background in international affairs 🌏 I'm from Germany, but studied in the UK, and spent the past few years working on government relations, policy and political risk in London and Beijing 🌆 Most of what I know about code, I learned through self-study, with the help of amazing resources such as The Odin Project and freeCodeCamp. 👩🏻‍💻 
+A developer with a background in international affairs. 🌏 I'm from Germany, but studied in the UK, and spent the past few years working on policy and political risk in London and Beijing. 🌆 Most of what I know about code, I learned through self-study, with the help of amazing resources such as The Odin Project and freeCodeCamp. 👩🏻‍💻 
+
+🔭 I’m currently working on a full stack application as part of my studies at the [Coyotiv School of Engineering](https://www.coyotiv.com/school-of-software-engineering/). <br>
+📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hujingjing/). <br>
+
 
 <!--
 **jingjing142/jingjing142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
