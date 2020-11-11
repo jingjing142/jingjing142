@@ -1,6 +1,5 @@
 ### Hi, I'm Jing 👋
 
-🔭 I’m currently a software engineer at Klarna.<br>
 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hujingjing/). <br>
 
 
